@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759915099 source:c:\semester 3\asistensi pf\ashor patikum pf kamis\week4pf\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
